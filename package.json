@@ -1,0 +1,8 @@
+{
+  "name": "vite-cname-plugin",
+  "version": "1.0.1",
+  "main": "index.js",
+  "author": "tasynguyen3894",
+  "license": "MIT",
+  "type": "module"
+}
